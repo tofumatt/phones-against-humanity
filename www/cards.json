@@ -1,0 +1,46 @@
+{
+    "white": [
+        "Being on fire.",
+        "Racism.",
+        "Old-people smell.",
+        "A micropenis.",
+        "Women in yogurt commercials.",
+        "Classist undertones.",
+        "Not giving a shit about the Third World.",
+        "Sexting.",
+        "Roofies.",
+        "A windmill full of corpses.",
+        "The gays.",
+        "Oversized lollipops.",
+        "African Children.",
+        "An asymmetric boob job.",
+        "Bingeing and purging.",
+        "The hardworking Mexican.",
+        "An Oedipus complex.",
+        "A tiny horse.",
+        "Boogers.",
+        "Penis envy."
+    ],
+    "black": [
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "How did I lose my virginity?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Why can't I sleep at night?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What's that smell?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "I got 99 problems but ___ ain't one."
+        }
+    ]
+}
