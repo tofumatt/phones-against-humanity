@@ -40,7 +40,448 @@
         {
             "draw": 0,
             "pick": 1,
-            "text": "I got 99 problems but ___ ain't one."
+            "text": "Maybe she's born with it. Maybe it's ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What's the next Happy Meal® toy?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Here is the church
+                     Here is the steeple
+                     Open the doors
+                     And there is ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "It's a pity that kids these days are all getting involved with ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "During his childhood, Savlador Dali produced hundreds of paintings of ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Alternative medicine is now embracing the curative powers of ___."
+        },
+        {
+            "draw": 0,
+            "pick": 2,
+            "text": "And the Academy Award for ___ goes to ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What's that sound?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What ended my last relationship?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "MTV's new reality show features eight washed-up celebrities living with ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "I drink to forget ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "I'm sorry, Professor, but I couldn't complete my homework because of ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What is Batman's guilty pleasure?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "This is the way the world ends \\
+                     This is the way the world ends \\
+                     Not with a bang but with ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What's a girl's best friend?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "TSA guidelines now prohibit ___ on airplanes."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "___. That's how I want to die."
+        },
+        {
+            "draw": 0,
+            "pick": 2,
+            "text": "For my next trick, I will ___ out of ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "In the new Disney Channel Original Movie, Hannah Montana struggles with ___ for the first time."
+        },
+        {
+            "draw": 0,
+            "pick": 2,
+            "text": "___ is a slippery slope that leads to ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What does Dick Cheney prefer?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Dear Abby,
+
+                     I'm having some trouble with ___ and would like your advice."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Instead of coal, Santa now gives the bad children ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What's the most emo?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "In 1,000 years, when paper money is a distant memory, how will we pay for goods and services?"
+        },
+        {
+            "draw": 0,
+            "pick": 2,
+            "text": "What's the next superhero/sidekick duo?"
+        },
+        {
+            "draw": 0,
+            "pick": 2,
+            "text": "In M. Night Shyamalan's new movie, Bruce Willis discovers that ___ had really been ___ all along."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "A romantic, candlelit dinner would be incomplete without ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "___. Betcha can't have just one!"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "White people like ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "___. High five, bro."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Next from J.K. Rowling: Harry Potter and the Chamber of ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "BILLY MAYS HERE FOR ___."
+        },
+        {
+            "draw": 0,
+            "pick": 2,
+            "text": "In a world ravaged by ___, our only solace is ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "War!
+
+                     What is it good for?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "During sex, I like to think about ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What are my parents hiding from me?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What will always get you laid?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "In L.A. County Jail, word is you can trade 200 cigarettes for ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What did I bring back from Mexico?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What don't you want to find in your Chinese food?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What will I bring back in time to convince people that I am a powerful wizard?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "How am I maintaining my relationship status?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "___. It's a trap!"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Coming to Broadway this season, ___: The Musical."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "After the earthquake, Sean Penn brought ___ to the people of Haiti."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Next on ESPN2, the World Series of ___."
+        },
+        {
+            "draw": 0,
+            "pick": 2,
+            "text": "Step 1: ___.
+                     Step 2: ___.
+                     Step 3: Profit."
+        },
+        {
+            "draw": 0,
+            "pick": 2,
+            "text": "Rumour has it that Vladimir Putin's favourite delicacy is ___ stuffed with ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "But before I kill you, Mr. Bond, I must show you ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What gives me uncontrollable gas?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What do old people smell like?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "The class field was completely ruined by ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "When Pharaoh remained unmoved, Moses called down a Plague of ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What's my secret power?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What's there a tonne of in heaven?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What would grandma find distrubing, yet oddly charming?"
+        },
+        {
+            "draw": 0,
+            "pick": 2,
+            "text": "I never truly understood ___ until I encountered ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What did the U.S. airdrop to the children of Afghanistan?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What helps Obama unwind?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What did Vin Diesel eat for dinner?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "___: good to the last drop."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Why am I sticky?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What gets better with age?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "___: kid-tested, mother-approved."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Daddy, why is mommy crying?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What's Teach for America using to inspire inner city students to succeed?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Studies show that lab rats navigate mazes 50% faster after being exposed to ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Life for American Indians was forever changed when the White Man introduced them to ___."
+        },
+        {
+            "draw": 2,
+            "pick": 3,
+            "text": "Make a haiku."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "I do not know with what weapons World War III will be fought, but World War IV will be fought with ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Why do I hurt all over?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What am I giving up for Lent?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "In Michael Jackson's final moments, he thought about ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "The Smithsonian Museum of Natural History has just opened an interactive exhibit on ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "When I am President of the United States, I will create the Department of ___."
+        },
+        {
+            "draw": 0,
+            "pick": 2,
+            "text": "Lifetime® presents ___, the story of ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "When I am a billionaire, I shall erect a 50-foot statue to commemorate ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "When I was tripping on acid, ___ turned into ___."
+        },
+        {
+            "draw": 0,
+            "pick": 2,
+            "text": "That's right, I killed ___. How, you ask? ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What's my anti-drug?"
+        },
+        {
+            "draw": 2,
+            "pick": 3,
+            "text": "___ + ___ = ___."
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What never fails to liven up the party?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "What's the new fad diet?"
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": ""
+        },
+        {
+            "draw": 0,
+            "pick": 1,
+            "text": "Major League Baseball has banned ___ for giving players an unfair advantage."
         }
     ]
 }
