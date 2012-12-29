@@ -556,11 +556,6 @@
         {
             "draw": 0,
             "pick": 1,
-            "text": ""
-        },
-        {
-            "draw": 0,
-            "pick": 1,
             "text": "Major League Baseball has banned ___ for giving players an unfair advantage."
         }
     ]
